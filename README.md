@@ -1,3 +1,7 @@
+Newer version is here: https://github.com/j127/project_starter
+
+---
+
 # Project Starter
 
 Some basic files to download into new projects.
